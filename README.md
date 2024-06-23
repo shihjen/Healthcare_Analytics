@@ -34,7 +34,7 @@
   <tr>
     <td>1</td>
     <td>
-    <a href="https://github.com/shihjen/Healthcare_Analytics/blob/main/notebook/EDA_Classification_SeerBreastCancerDataset.ipynb">Alzheimer's Disease and Mild Cognitive Impairment Prediction through Biomarker Analysis and Machine Learning</a>
+    <a href="https://github.com/shihjen/Healthcare_Analytics/blob/main/notebook/EDA_Classification_Alzheimer'sDisease.ipynb">Alzheimer's Disease and Mild Cognitive Impairment Prediction through Biomarker Analysis and Machine Learning</a>
     </td>
     <td><a href="https://dataverse.csuc.cat/dataset.xhtml?persistentId=doi:10.34810/data614">Plasma lipidomics in Alzheimer's disease and its progression</a></td>
     <td>Data Visualization, Statistical Analysis, Classification</td>

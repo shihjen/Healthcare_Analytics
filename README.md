@@ -32,7 +32,7 @@
   </tr>
 
   <tr>
-    <td>1</td>
+    <td>3</td>
     <td>
     <a href="https://github.com/shihjen/Healthcare_Analytics/blob/main/notebook/EDA_Classification_Alzheimer'sDisease.ipynb">Alzheimer's Disease and Mild Cognitive Impairment Prediction through Biomarker Analysis and Machine Learning</a>
     </td>

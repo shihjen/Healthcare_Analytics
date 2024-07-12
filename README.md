@@ -39,5 +39,14 @@
     <td><a href="https://dataverse.csuc.cat/dataset.xhtml?persistentId=doi:10.34810/data614">Plasma lipidomics in Alzheimer's disease and its progression</a></td>
     <td>Data Visualization, Statistical Analysis, Classification</td>
   </tr>  
+
+  <tr>
+    <td>4</td>
+    <td>
+    <a href="https://github.com/shihjen/Healthcare_Analytics/blob/main/notebook/Classification_IndianLiverPatientDataset.ipynb">Liver Diseases Prediction</a>
+    </td>
+    <td><a href="https://archive.ics.uci.edu/dataset/225/ilpd+indian+liver+patient+dataset">Indian Liver Patient Dataset</a></td>
+    <td>Classification</td>
+  </tr>  
  
 </table>

@@ -47,6 +47,15 @@
     </td>
     <td><a href="https://archive.ics.uci.edu/dataset/225/ilpd+indian+liver+patient+dataset">Indian Liver Patient Dataset</a></td>
     <td>Classification</td>
-  </tr>  
+  </tr>
+
+  <tr>
+    <td>5</td>
+    <td>
+    <a href="https://github.com/shihjen/Healthcare_Analytics/blob/main/notebook/MultinomialClassification_AnemiaTypesClassification.ipynb">Multinomial Classification on Anemia</a>
+    </td>
+    <td><a href="https://www.kaggle.com/datasets/ehababoelnaga/anemia-types-classification">Anemia Types</a></td>
+    <td>Classification</td>
+  </tr>    
  
 </table>

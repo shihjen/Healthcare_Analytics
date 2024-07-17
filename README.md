@@ -64,7 +64,7 @@
     <a href="https://github.com/shihjen/Healthcare_Analytics/blob/main/notebook/EDA_Classification_AbuDhabi_CKD_Dataset.ipynb">Predictive Modeling of Severe Chronic Kidney Disease Events in Patients with Chronic Kidney Disease Using Electronic Health Records</a>
     </td>
     <td><a href="https://www.kaggle.com/datasets/davidechicco/chronic-kidney-disease-ehrs-abu-dhabin">Chronic kidney disease EHRs Abu Dhabi</a></td>
-    <td>Classification</td>
+    <td>Statistical Analysis, Classification</td>
   </tr>      
  
 </table>

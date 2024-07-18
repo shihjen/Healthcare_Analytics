@@ -65,6 +65,17 @@
     </td>
     <td><a href="https://www.kaggle.com/datasets/davidechicco/chronic-kidney-disease-ehrs-abu-dhabin">Chronic kidney disease EHRs Abu Dhabi</a></td>
     <td>Statistical Analysis, Classification</td>
-  </tr>      
+  </tr>
+
+  <tr>
+    <td>7</td>
+    <td>
+    <a href="https://github.com/shihjen/Healthcare_Analytics/blob/main/notebook/EDA_Classification_HeartDisease.ipynb">Deciphering Angiographic Disease: An In-depth Analysis of Predictive Markers</a>
+    </td>
+    <td><a href="https://archive.ics.uci.edu/dataset/45/heart+disease">Heart Disease</a></td>
+    <td>Statistical Analysis, Classification</td>
+  </tr>            
  
 </table>
+
+

@@ -76,6 +76,15 @@
     <td>Statistical Analysis, Classification</td>
   </tr>            
  
+  <tr>
+    <td>8</td>
+    <td>
+    <a href="https://github.com/shihjen/Healthcare_Analytics/blob/main/notebook/EDA_Classification_CoimbraBreastCancer.ipynb">Breast Cancer Prediction</a>
+    </td>
+    <td><a href="https://archive.ics.uci.edu/dataset/451/breast+cancer+coimbra">Breast Cancer Coimbra</a></td>
+    <td>Statistical Analysis, Classification</td>
+  </tr> 
+
 </table>
 
 

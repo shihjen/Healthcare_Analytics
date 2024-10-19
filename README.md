@@ -85,6 +85,15 @@
     <td>Statistical Analysis, Classification</td>
   </tr> 
 
+  <tr>
+    <td>9</td>
+    <td>
+    <a href="https://github.com/shihjen/Healthcare_Analytics/blob/main/notebook/DeepLearning_CNN_ChestXray_Pneumonia.ipynb">Application of the Deep Learning for Pneumonia Detection Using Chest X-Ray Images</a>
+    </td>
+    <td><a href="https://data.mendeley.com/datasets/rscbjbr9sj/2">Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification</a></td>
+    <td>Convolutional Neural Network, Classification</td>
+  </tr> 
+
 </table>
 
 

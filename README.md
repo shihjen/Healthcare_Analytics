@@ -94,6 +94,15 @@
     <td>Convolutional Neural Network, Classification</td>
   </tr> 
 
+  <tr>
+    <td>10</td>
+    <td>
+    <a href="https://github.com/shihjen/Healthcare_Analytics/blob/main/notebook/DeepLearning_CNN_MRI_BrainTumor.ipynb">Brain Tumor Detection using MRI Images</a>
+    </td>
+    <td><a href="https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection/data">Brain MRI Images for Brain Tumor Detection</a></td>
+    <td>Convolutional Neural Network, Classification</td>
+  </tr> 
+
 </table>
 
 

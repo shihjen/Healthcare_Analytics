@@ -101,7 +101,16 @@
     </td>
     <td><a href="https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection/data">Brain MRI Images for Brain Tumor Detection</a></td>
     <td>Convolutional Neural Network, Classification</td>
-  </tr> 
+  </tr>
+
+  <tr>
+    <td>11</td>
+    <td>
+    <a href="https://github.com/shihjen/Healthcare_Analytics/blob/main/notebook/DeepLearning_CNN_RetinaImage_DiabeticRetinopathy.ipynb">Detection of Diabetic Retinopathy using Retinal Images</a>
+    </td>
+    <td><a href="https://www.kaggle.com/datasets/pkdarabi/diagnosis-of-diabetic-retinopathy">Diagnosis of Diabetic Retinopathy</a></td>
+    <td>Convolutional Neural Network, Classification</td>
+  </tr>  
 
 </table>
 
